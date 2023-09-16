@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Shorts Summary" src=".github/preview.png" width="100%">
+  <img alt="Shorts Summary" src="https://www.figma.com/file/mTOM97YwZk3RXDTQ0DWmzv/Shorts-Summary-%E2%80%A2-Trilha-Foundations-(Community)?type=design&node-id=301-171&mode=design&t=MAsEVDTdQWaPMQk4-4" width="100%">
 </p>
 
 ## 🚀 Tecnologias
